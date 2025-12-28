@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vamshi Krishna Muktha
 
-I am a Java-centric backend and MERN stack developer with a strong interest in designing scalable, efficient web applications. I continuously refine my problem-solving abilities and core computer science fundamentals through Data Structures & Algorithms.
+I am a **Java-centric backend and MERN stack developer** with a strong interest in designing scalable, efficient web applications. I continuously refine my problem-solving abilities and core computer science fundamentals through Data Structures & Algorithms.
 
 ---
 
